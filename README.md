@@ -377,7 +377,7 @@ Popular Courses
 
 <footer>
 
-© 2026 E-Learning Management System | GitHub Style UI
+© 2026 akazakoyuki||gopi
 
 </footer>
 
